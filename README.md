@@ -1,2 +1,2 @@
-# algebra-boleana
-Algoritmo capaz de receber uma expressão booleana e calcular seu valor
+# algebra-booleana
+Algoritmo capaz de receber uma String representando uma expressão booleana e calcular seu valor.
